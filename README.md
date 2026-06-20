@@ -18,9 +18,9 @@ Architecture | 3D Modeling | Grasshopper | Tech Support
 
 ### About Me
 
-Hey, I am an architecture and urbanism student at FAM, currently working as a freelance 3D modeler and tech support. I am really into computational design and developing plugins.
+Hey, I am an architecture and urbanism student, currently working as a freelance 3D modeler and tech support. I am really into computational design and developing plugins.
 
-I have a background in industrial automation from ETEC. Right now, I spend most of my time building 3D models, running thermal analysis with Grasshopper, and doing renders.
+Right now, I spend most of my time building 3D models, running thermal analysis with Grasshopper, and doing renders.
 
 Previously, I worked as a project and 3D modeling intern at Tauri Topografia e Engenharia and Ideal Arquitetura e Engenharia. Over there, I handled everything from topographic projects and structural modeling to AutoCAD layouts and geoprocessing.
 
