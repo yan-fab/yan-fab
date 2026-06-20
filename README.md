@@ -1,6 +1,6 @@
 <h1 align="center">
   <img align="left" src="https://komarev.com/ghpvc/?username=yan-fab&label=PROFILE+VIEWS&style=plastic&color=0A66C2"/>
-  Yan Fabio dos Santos Silva
+  Yan Fabio dos Santos Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   <a href="https://yan_urb.artstation.com">
     <img align="right" src="https://img.shields.io/badge/ArtStation-13AFF0?style=plastic&logo=artstation&logoColor=white" />
   </a>
@@ -17,11 +17,11 @@ Architecture & Urbanism Student • 3D Modeler • Computational Designer
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=1000&lines=Architecture;3D+Modeling;Grasshopper;Tech+Support" />
 </h2>
 
-<img src="https://images2.imgbox.com/0d/fa/N5rAazuP_o.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
 
-## 🚀 About Me
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="35"> About Me
 
 Hey, I am an architecture and urbanism student, currently working as a freelance 3D modeler and tech support. I am really into computational design and developing plugins.
 
@@ -29,7 +29,7 @@ Right now, I spend most of my time building 3D models, running thermal analysis 
 
 </div>
 
-<img src="https://images2.imgbox.com/0d/fa/N5rAazuP_o.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 # 💼 Experience
 
@@ -39,9 +39,9 @@ Right now, I spend most of my time building 3D models, running thermal analysis 
 | Tauri Topografia e Engenharia | Project & 3D Modeling Intern | Topographic projects, structural modeling, AutoCAD layouts and geoprocessing. |
 | Multiplano | Project & 3D Modeling Intern | Architectural projects, 3D modeling, layout design, and technical detailing. |
 
-<img src="https://images2.imgbox.com/0d/fa/N5rAazuP_o.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-# Main Technologies
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> Main Technologies
 
 ### Design & 3D Modeling
 <img src="https://img.shields.io/badge/Rhinoceros-000000?style=plastic&logo=rhinoceros&logoColor=white"> <img src="https://img.shields.io/badge/SketchUp-005C9E?style=plastic&logo=sketchup&logoColor=white"> <img src="https://img.shields.io/badge/Blender-F5792A?style=plastic&logo=blender&logoColor=white"> <img src="https://img.shields.io/badge/Revit-000000?style=plastic&logo=autodeskrevit&logoColor=white"> <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=plastic&logo=autocad&logoColor=white"> <img src="https://img.shields.io/badge/3ds_Max-18A3A8?style=plastic&logo=autodesk3dsmax&logoColor=white"> <img src="https://img.shields.io/badge/Archicad-000000?style=plastic&logo=graphisoft&logoColor=white">
@@ -58,7 +58,7 @@ Right now, I spend most of my time building 3D models, running thermal analysis 
 ### Tools & Cloud
 <img src="https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black"> <img src="https://img.shields.io/badge/Google%20BigQuery-669DF6?style=plastic&logo=google-bigquery&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white">
 
-<img src="https://images2.imgbox.com/0d/fa/N5rAazuP_o.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
 
