@@ -62,11 +62,11 @@ Right now, I spend most of my time building 3D models, running thermal analysis 
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=yanjusantos&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=yanjusantos&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=ff0000&bar_color_cover=true">
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-fab&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-fab&layout=compact&bg_color=121212&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://cdn.7tv.app/emote/01GR0GY3780007222YDGPKZWKH/4x.gif" width="100" />
+  <img src="https://cdn.7tv.app/emote/01GR0GY3780007222YDGPKZWKH/4x.gif" width="250" />
 </div>
