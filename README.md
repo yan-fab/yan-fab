@@ -61,9 +61,8 @@ Right now, I spend most of my time building 3D models, running thermal analysis 
 ---
 
 <div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-fab&layout=compact&theme=default" alt="Top Languages" />
-
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=yanjusantos&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=yanjusantos&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=ff0000&bar_color_cover=true">
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-fab&layout=compact&theme=default" alt="Top Languages" />
 </div>
