@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img align="left" src="https://komarev.com/ghpvc/?username=yan-fab&label=PROFILE+VIEWS&style=plastic&color=955251"/>
-  Yan Fabio dos Santos Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  Yan Fabio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   <a href="https://yan_urb.artstation.com">
     <img align="right" src="https://img.shields.io/badge/ArtStation-13AFF0?style=plastic&logo=artstation&logoColor=white" />
   </a>
