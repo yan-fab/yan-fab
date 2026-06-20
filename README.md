@@ -66,3 +66,7 @@ Right now, I spend most of my time building 3D models, running thermal analysis 
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://cdn.7tv.app/emote/01GR0GY3780007222YDGPKZWKH/4x.gif" width="100" />
+</div>
