@@ -64,6 +64,11 @@ Previously, I worked as a project and 3D modeling intern at Tauri Topografia e E
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-fab&layout=compact&theme=default" alt="Top Languages" />
+</div>
+
 ---
 
 Feel free to reach out at yanjusantos@gmail.com
