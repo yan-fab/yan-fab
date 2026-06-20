@@ -44,7 +44,7 @@ Right now, I spend most of my time building 3D models, running thermal analysis 
 |---|---|---|
 | Freelance | 3D Modeler & Tech Support | Computational design, plugin development, 3D modeling, renders and thermal analysis. |
 | Tauri Topografia e Engenharia | Project & 3D Modeling Intern | Topographic projects, structural modeling, AutoCAD layouts and geoprocessing. |
-| Ideal Arquitetura e Engenharia | Project & 3D Modeling Intern | Topographic projects, structural modeling, AutoCAD layouts and geoprocessing. |
+| Multiplano | Project & 3D Modeling Intern | Architectural projects, 3D modeling, layout design, and technical detailing. |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2" width="100%"/>
 
