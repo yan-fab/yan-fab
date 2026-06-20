@@ -14,7 +14,7 @@
 **Architecture & Urbanism Student | 3D Modeler & Computational Designer**
 Architecture | 3D Modeling | Grasshopper | Tech Support
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2" width="100%"/>
 
 ### About Me
 
@@ -24,7 +24,7 @@ I have a background in industrial automation from ETEC. Right now, I spend most 
 
 Previously, I worked as a project and 3D modeling intern at Tauri Topografia e Engenharia and Ideal Arquitetura e Engenharia. Over there, I handled everything from topographic projects and structural modeling to AutoCAD layouts and geoprocessing.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2" width="100%"/>
 
 ### Tech Stack
 
@@ -69,15 +69,12 @@ Previously, I worked as a project and 3D modeling intern at Tauri Topografia e E
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-fab&layout=compact&theme=default" alt="Top Languages" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2" width="100%"/>
 
 <br>
 <div align="center">
   <a href="mailto:yanjusantos@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yan-fabi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=yan-fab&label=PROFILE+VIEWS&style=for-the-badge&color=0A66C2" />
 </div>
