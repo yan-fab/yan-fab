@@ -17,7 +17,6 @@ Architecture & Urbanism Student • 3D Modeler • Computational Designer
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=1000&lines=Architecture;3D+Modeling;Grasshopper;Tech+Support" />
 </h2>
 
----
 
 <div align="center">
 
@@ -29,7 +28,6 @@ Right now, I spend most of my time building 3D models, running thermal analysis 
 
 </div>
 
----
 
 # 💼 Experience
 
@@ -39,7 +37,6 @@ Right now, I spend most of my time building 3D models, running thermal analysis 
 | Tauri Topografia e Engenharia | Project & 3D Modeling Intern | Topographic projects, structural modeling, AutoCAD layouts and geoprocessing. |
 | Multiplano | Project & 3D Modeling Intern | Architectural projects, 3D modeling, layout design, and technical detailing. |
 
----
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> Main Technologies
 
@@ -58,7 +55,6 @@ Right now, I spend most of my time building 3D models, running thermal analysis 
 ### Tools & Cloud
 <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> <img src="https://img.shields.io/badge/Google%20BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
----
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=yanjusantos&redirect=true">
