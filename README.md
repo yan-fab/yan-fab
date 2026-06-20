@@ -1,4 +1,19 @@
-<h1 align="center">Yan Fabio dos Santos Silva</h1>
+<h1 align="center">
+  <a href="mailto:yanjusantos@gmail.com">
+    <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yan-fabi/">
+    <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  Yan Fabio dos Santos Silva
+  <img align="right" src="https://komarev.com/ghpvc/?username=yan-fab&label=PROFILE+VIEWS&style=for-the-badge&color=0A66C2"/>
+  <a href="https://yan_urb.artstation.com">
+    <img align="right" src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" />
+  </a>
+  <a href="https://sketchfab.com/yanju">
+    <img align="right" src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white" />
+  </a>
+</h1>
 
 <h3 align="center">
 Architecture & Urbanism Student • 3D Modeler • Computational Designer
@@ -7,22 +22,6 @@ Architecture & Urbanism Student • 3D Modeler • Computational Designer
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=1000&lines=Architecture;3D+Modeling;Grasshopper;Tech+Support" />
 </h2>
-
-<p align="center">
-  <a href="mailto:yanjusantos@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yan-fabi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://sketchfab.com/yanju">
-    <img src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white" />
-  </a>
-  <a href="https://yan_urb.artstation.com">
-    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=yan-fab&label=PROFILE+VIEWS&style=for-the-badge&color=0A66C2"/>
-</p>
 
 <img src="https://images2.imgbox.com/0d/fa/N5rAazuP_o.gif" width="100%"/>
 
