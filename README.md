@@ -56,9 +56,13 @@ Right now, I spend most of my time building 3D models, running thermal analysis 
 <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> <img src="https://img.shields.io/badge/Google%20BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 
+---
+
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=yanjusantos&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=yanjusantos&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=ff0000&bar_color_cover=true">
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-fab&layout=compact&theme=default" alt="Top Languages" />
 </div>
+
+---
