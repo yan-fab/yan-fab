@@ -1,5 +1,8 @@
 <h1>
   Yan Fabio dos Santos Silva
+  <a href="https://www.linkedin.com/in/yan-fabi/">
+    <img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://sketchfab.com/yanju">
     <img align="right" src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=flat&logo=sketchfab&logoColor=white" />
   </a>
