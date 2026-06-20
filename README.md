@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=955251&height=150&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=955251&height=100&section=header" width="100%"/>
 
 <h1 align="center">
   <img align="left" src="https://komarev.com/ghpvc/?username=yan-fab&label=PROFILE+VIEWS&style=plastic&color=0A66C2"/>
@@ -75,4 +75,4 @@ Right now, I spend most of my time building 3D models, running thermal analysis 
   <img src="https://cdn.7tv.app/emote/01GR0GY3780007222YDGPKZWKH/4x.gif" width="250" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=955251&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=955251&height=100&section=footer" width="100%"/>
