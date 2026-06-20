@@ -1,14 +1,11 @@
 <h1 align="center">
   <img align="left" src="https://komarev.com/ghpvc/?username=yan-fab&label=PROFILE+VIEWS&style=plastic&color=0A66C2"/>
-  <a href="https://www.linkedin.com/in/yan-fabi/">
-    <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/>
-  </a>
   Yan Fabio dos Santos Silva
   <a href="https://yan_urb.artstation.com">
     <img align="right" src="https://img.shields.io/badge/ArtStation-13AFF0?style=plastic&logo=artstation&logoColor=white" />
   </a>
-  <a href="https://sketchfab.com/yanju">
-    <img align="right" src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=plastic&logo=sketchfab&logoColor=white" />
+  <a href="https://www.linkedin.com/in/yan-fabi/">
+    <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/>
   </a>
 </h1>
 
