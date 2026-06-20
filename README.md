@@ -59,10 +59,14 @@ Right now, I spend most of my time building 3D models, running thermal analysis 
 ---
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yan-fab&show_icons=true&bg_color=121212&title_color=a855f7&text_color=ffffff&icon_color=a855f7&hide_border=true" alt="GitHub Stats" />
+  <br/>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=yanjusantos&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=yanjusantos&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=ff0000&bar_color_cover=true">
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-fab&layout=compact&bg_color=121212&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-fab&layout=compact&bg_color=121212&title_color=a855f7&text_color=ffffff&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yan-fab&bg_color=121212&color=ffffff&line=a855f7&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
