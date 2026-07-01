@@ -64,7 +64,7 @@ Right now, I spend most of my time building 3D models, running thermal analysis 
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=yanjusantos&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=yanjusantos&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=955251&bar_color_cover=true">
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-fab&layout=compact&bg_color=121212&title_color=955251&text_color=ffffff&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yan-fab&layout=compact&bg_color=121212&title_color=955251&text_color=ffffff&hide_border=true" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yan-fab&bg_color=121212&color=ffffff&line=955251&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
